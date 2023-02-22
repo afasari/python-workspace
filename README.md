@@ -1,3 +1,4 @@
 # Personal python projects
 
-- Django Poll
+- Polling App
+- Todo App

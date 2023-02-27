@@ -1,5 +1,6 @@
 # unfinished projects
 *TODO.md
+*.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
